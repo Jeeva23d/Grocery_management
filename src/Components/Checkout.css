@@ -1,0 +1,185 @@
+.CheckOut-Outer-Container{
+  padding: 100px;
+  
+}
+.CheckOut-inner-Container{
+    padding: 70px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    box-shadow: 0px 0px 70px rgba(248, 143, 105, 0.9);
+    
+    
+}
+.checkout-Belling-inputs{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+}
+.checkout-Heading{
+    text-align: center;
+    font-size: 60px;
+    font-weight: 900;
+    color: black;
+
+}
+.Checkout-BellingDetails-Heading{
+    font-size:55px ;
+    font-weight: 900;
+}
+.Checkout-input-names input{
+    width: 290px;
+    height: 44px;
+    border-radius: 5px;
+    padding: 10px;
+}
+.Checkout-input-names label{
+    font-size: large;
+    font-weight: 600;
+    
+
+}
+.Checkout-input-names{
+    display: flex;
+    justify-content: start;
+    align-items: start;
+    gap: 50px;
+
+}
+
+.Returning-cus{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(240, 240, 240);
+    border-radius: 5px;
+}
+.color{
+    width: 100%;
+    height: 5px;
+    background-color: rgb(30, 30, 30);
+}
+.Coupans{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(240, 240, 240);
+    border-radius: 5px;
+
+}
+.Returning-customer-link{
+    padding: 10px;
+}
+.Have-a-coupan{
+    padding: 10px;
+
+}
+.Checkout-CompanyName-input label{
+        font-size: large;
+        font-weight: 600;
+
+}
+.Checkout-CompanyName-input input{
+    width: 290px;
+    height: 44px;
+    border-radius: 5px;
+    padding: 10px;
+
+}
+.CheckOut-SelectCountry label{
+    font-size: large;
+    font-weight: 600;
+
+}
+.CheckOut-SelectCountry select{
+    width: 290px;
+    height: 44px;
+    border-radius: 5px;
+    padding: 10px;
+
+}
+.CheckOut-Address{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.CheckOut-Address label{
+    font-size: large;
+    font-weight: 600;
+
+}
+.CheckOut-Address input{
+    width: 400px;
+    height: 44px;
+    border-radius: 5px;
+    padding: 10px;
+
+}
+.Checkout-City label{
+    font-size: large;
+    font-weight: 600;
+
+}
+.Checkout-City input{
+    width: 290px;
+    height: 44px;
+    border-radius: 5px;
+    padding: 10px;
+    
+
+}
+.CheckOut-State label{
+    font-size: large;
+    font-weight: 600;
+}
+.CheckOut-State select{
+    width: 290px;
+    height: 44px;
+    border-radius: 5px;
+    padding: 10px;
+}
+.CheckOut-ZipCode label{
+    font-size: large;
+    font-weight: 600;
+}
+.CheckOut-ZipCode input{
+    width: 290px;
+    height: 44px;
+    border-radius: 5px;
+    padding: 10px;
+}
+.CheckOut-Phone label{
+    font-size: large;
+    font-weight: 600;
+
+}
+.CheckOut-Phone input{
+    width: 290px;
+    height: 44px;
+    border-radius: 5px;
+    padding: 10px;
+
+}
+.CheckOut-Email label{
+    font-size: large;
+    font-weight: 600;
+
+}
+.CheckOut-Email input{
+    width: 290px;
+    height: 44px;
+    border-radius: 5px;
+    padding: 10px;
+
+}
+.CheckOut-Password label{
+    font-size: large;
+    font-weight: 600;
+}
+.CheckOut-Password input{
+    width: 290px;
+    height: 44px;
+    border-radius: 5px;
+    padding: 10px;
+
+}
+

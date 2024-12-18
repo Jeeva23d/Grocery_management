@@ -1,0 +1,87 @@
+.Home-Content-project{
+  margin-top: 110px;
+  padding-left: 100px;
+  padding-top: 60px;
+  background-image: url('https://img.freepik.com/free-photo/groceries-packages-delivery-covid-quarantine-shopping-concept-surprised-courier-red-unifo_1258-85138.jpg?w=1380&t=st=1708590399~exp=1708590999~hmac=4d61028b05b9517671782a5794a8556df94012e3e46d19f178823bd644933898');
+  height: 600px;
+
+  background-repeat: no-repeat;
+  /* background-attachment: scroll; */
+  background-size: cover;
+  object-fit: cover;
+  font-family: 'Roboto', sans-serif;
+  
+}
+
+
+.Home-diet{
+  font-size: xx-large;
+  font-weight: 100;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.Home-diet-p{
+  width: 600px;
+  
+  
+}
+.Home-Img-h1{
+  font-size: 70px;
+  font-weight: 700;
+ 
+}
+.Home-Img-p{
+  width: 400px;
+ 
+}
+.Home-Img-button{
+  width: 200px;
+  height: 50px;
+  border: none;
+  border-radius: 8px;
+  font-size: medium;
+  font-weight: 00;
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  
+}
+.Home-Img-button:hover{
+  background-color:  rgb(248, 143, 105);
+  color: white;
+}
+/* .Home-Img-h1{
+  width: 130px;
+  font-size:80px;
+  font-weight: 750;
+  
+
+
+}
+.Home-Img-p{
+  padding-left: 30px;
+  width:550px;
+  font-size: x-large;
+  font-weight: 500;
+  
+  
+}
+.Home-Img-button{
+  padding: 10px;
+  margin-left: 70px;
+  border: none;
+  background-color: coral;
+  width: 200px;
+  height: 80px;
+  border-radius: 50px;
+  font-style:oblique;
+  font-weight: bolder;
+  font-size: larger;
+  color: black;
+  margin-top: 30px;
+}
+.Home-Img-button:hover{
+  color:white;
+  transition: 1s;
+} */

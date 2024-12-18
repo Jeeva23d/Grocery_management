@@ -1,0 +1,187 @@
+.addTocart-Container{
+    display: flex;
+    margin-top: 130px;
+
+}
+
+
+.addTocart-left{
+
+    width: 70%;
+    height: 700px;
+    background-color: white;
+   
+}
+.Summary-CheckOut{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Summary-CheckOut button{
+    width: 200px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: medium;
+    font-weight: 500;
+    margin-top: 5px;
+}
+
+.Summary-CheckOut button:hover{
+opacity: 0.9;
+}
+
+
+
+
+
+
+
+.addTocart-right{
+    width: 30%;
+    height: 540px;
+    padding: 10px;
+    font-size: 23px;
+    font-weight: 600;
+    line-height: 2rem;
+    background-color: antiquewhite;
+    border-radius: 5px;
+    position: fixed;
+    left: 70%;
+   
+
+}
+.Summary-Name{
+    padding: 10px;
+    font-weight: 600;
+    text-shadow: 1px 1px ;
+}
+.addTocart-Summary{
+    width: 100%;
+    height: 470px;
+    
+    
+}
+
+.Subtotal{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.Discount{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+.Shipping-Charges{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+.Tax{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+.Total{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+
+
+
+
+
+.Cart-Container{
+    padding: 10px;
+}
+
+.Cart-Items{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 6px rgba(0,0,0,0.5);
+    background-color: aliceblue;
+}
+
+
+.Cart-Img-Display{
+    width: 100%;
+    height: 80%;
+}
+.Cart-Name-Display{
+    
+    width: 100%;
+    height: 20%;
+    font-size: large;
+    font-weight: 600;
+    padding-top: 7px;
+    padding-left: 8px;
+}
+
+.Cart-Price{
+    display: flex;
+    justify-content: center;
+    align-items: start;
+}
+.Cart-Price-Display{
+    margin-top: 90px;
+    font-size: x-large;
+    font-weight: 700;
+    letter-spacing: 1px;
+    
+}
+.Cart-Quantity{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+    font-weight: 700;
+}
+.Cart-Quantity-Name{
+    margin-bottom: 52px;
+    letter-spacing: 1px;
+    font-weight: 900;
+    
+}
+.cart-Total-Price{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.Cart-Total-Display{
+    font-size: x-large;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+.Cart-Close-Button{
+    margin-left: 240px;
+    cursor: pointer;
+}
+.Empty-Container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 250px;
+    flex-direction: column;
+}
+.EmptyCart-Para{
+    margin-top: 50px;
+    font-size: xx-large;
+    font-weight: 1000;
+}
+

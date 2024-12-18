@@ -1,0 +1,106 @@
+.Items-Container{
+    display: flex;
+    flex-direction: row;
+    margin-top: 150px;
+}
+
+.Items-Category{
+    width: 10%;
+    height: 100vh;
+    background-color: rgb(255, 255, 255);
+
+}
+.Items-ListofProducts{
+    width: 90%;
+    background-color: white;
+    height: fit-content;
+    display: grid ;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 25px;
+    row-gap: 40px;
+
+}
+.Items-Products{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    border: 1px solid white;
+    box-shadow: 0px 0px 6px rgba(0,0,0,0.2);
+
+}
+.Product-Image{
+ width: 100%;
+ height: 300px;
+
+}
+.Product-Name{
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 100%;
+    font-size: larger;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+.Product-Category-Name{
+    font-size: medium;
+    padding-left: 13px;
+    padding-top: 10px;
+    margin-left: 2px;
+    
+}
+.Product-Price{
+    font-size: large;
+    font-weight: 500;
+    color:  #051220;
+    padding-left: 13px;
+    margin-bottom:4px;
+    margin-left: 2px;
+}
+.Product-Button{
+    border: none;
+    text-align: center;
+    padding: 8px;
+    color:#5856d6;
+    font-size: medium;
+    font-weight: 700;
+    background: transparent;
+    margin-left: 10px;
+    margin-bottom: 15px;
+
+}
+.Product-Button:hover{
+    background-color: #d8f3ff;
+    border-radius: 5px;
+}
+
+
+
+
+
+.Category-Name{
+    font-size: large;
+    font-weight: 600;
+    padding: 10px;  
+    margin-left: 5px;
+}
+
+.Checkbox{
+    font-size: medium;
+    font-weight: 550;
+    line-height: 40px;
+
+    
+}
+.Checkboxs{
+    
+    margin-left: 20px;
+}
+#checkbox1{
+  width: 30px;
+  height: 20px;
+}
+#checkbox2{
+    width: 30px;
+    height: 20px;
+  }

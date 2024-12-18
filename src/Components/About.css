@@ -1,0 +1,26 @@
+
+.Footer-Container li{
+    font-size: large;
+    list-style: none;
+    line-height: 2.5;
+}
+.Footer-Container li:nth-child(1){
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.Footer-Container{
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Poppins', sans-serif;
+}
+.Footer-Icons{
+    margin-left: 25px;
+    display: flex;
+    gap: 15px;
+    
+}
+.Footer-CopyRights{
+    margin-left: 25px;
+
+}

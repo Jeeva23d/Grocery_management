@@ -1,0 +1,42 @@
+.Feedback-Container{
+    background-image: url('Feedback-background.jpg');
+    width: 99vw;
+    height: 100vh;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 130px;
+}
+.Feedback-head1{
+    padding-left: 250px;
+    font-size: 100px;
+}
+.Feedback-head2{
+    padding-left: 420px;
+    font-size: 100px;
+}
+.Feedback-input{
+    width: 600px;
+    height: 70px;
+    margin-top: 50px;
+    margin-left: 480px;
+    border-radius: 50px;
+    padding: 30px;
+    font-size: large;
+    box-shadow: 5px 5px 0 0  ;
+}
+.Feedback-button{
+    display: block;
+    margin-top: 90px;
+    margin-left: 690px;
+    height: 80px;
+    width: 200px;
+    border-radius: 50px;
+    border: none;
+    background-color: coral;
+    font-weight: bold;
+    font-style: oblique;
+    font-size: x-large;
+}
+.Feedback-button:hover{
+    color: white;
+    transition: 1s;
+}
